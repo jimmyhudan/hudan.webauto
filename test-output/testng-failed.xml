@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [后台管理系统]">
+  <parameter name="driverPath" value="src/test/resources/geckodriver.exe"/>
+  <parameter name="seleniumVersion" value="3.X"/>
+  <parameter name="browserType" value="firefox"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="com.t.webauto.listener.TestListener"/>
+  </listeners>
+  <test name="registerTest(failed)">
+    <classes>
+      <class name="com.t.webauto.web.RegisterPage2">
+        <methods>
+          <include name="tearDown"/>
+          <include name="failtest" invocation-numbers="3"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.t.webauto.web.RegisterPage2 -->
+    </classes>
+  </test> <!-- registerTest(failed) -->
+</suite> <!-- Failed suite [后台管理系统] -->

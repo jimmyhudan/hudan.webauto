@@ -1,0 +1,6 @@
+#surefire
+#Fri Sep 11 11:06:32 CST 2020
+org.uncommons.reportng.escape-output=false
+user.dir=D\:\\repository1\\hudan.webauto
+localRepository=D\:\\repository1
+basedir=D\:\\repository1\\hudan.webauto

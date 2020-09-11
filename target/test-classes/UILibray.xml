@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<!-- page定义系统的一个页面 keyword属性：用一个关键字描述此页面 --> 
+	<page keyword="注册页">
+		<locator keyword="用户名输入框" by="id" value="tRYSs0"></locator>
+		<locator keyword="密码输入框" by="id" value="dgfvkp"></locator>
+		<locator keyword="请确认密码" by="id" value="Qz45kX"></locator>
+		<locator keyword="邮件输入框" by="id" value="GciA35"></locator>
+		<locator keyword="注册按钮" by="id" value="registerformsubmit"></locator>
+	</page>
+	
+	<page keyword="管理后台登录页面">
+		<locator keyword="用户名输入框" by="xpath" value="//*[@id='loginform']/p[2]">用户名</locator>
+		<locator keyword="用户名密码" by="xpath" value="//*[@id='loginform']/p[4]/input"></locator>
+		<locator keyword="提交" by="xpath" value="//*[@id='loginform']/p[9]/input"></locator>
+
+	</page> 
+</pages>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="后台管理系统">
+   <test name="registerTest"> 
+	 	<classes>
+			<class name="com.t.webauto.web.RegisterPage2"> 
+				<!-- <methods> 
+					<include name="test"></include>
+				</methods> -->
+			</class>
+		</classes>
+    </test> 
+	<parameter name="browserType" value="firefox"></parameter>
+	<parameter name="driverPath" value="src/test/resources/geckodriver.exe"></parameter>
+	<parameter name="seleniumVersion" value="3.X"></parameter>
+	<!-- 监听器  生成报表-->
+	<listeners> 
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener class-name="com.t.webauto.listener.TestListener"></listener>
+	</listeners>
+</suite>
+

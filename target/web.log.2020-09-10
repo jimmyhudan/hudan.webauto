@@ -1,0 +1,240 @@
+2020-09-10 17:14:26 method: com.t.webauto.utils.Base.init(Base.java:28) - [ INFO ]----*****************************************测试开始***************************************************************************************
+2020-09-10 17:14:26 method: com.t.webauto.utils.Base.init(Base.java:29) - [ INFO ]----配置浏览器：firefox,Selenium版本：src/test/resources/geckodriver.exe,驱动文件路径：3.X
+2020-09-10 17:14:34 method: com.t.webauto.utils.Base.init(Base.java:51) - [ INFO ]----成功创建firefox驱动对象
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:14:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:14:36 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:14:37 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:14:38 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:14:39 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:14:39 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:14:42 method: com.t.webauto.utils.Base.tearDown(Base.java:176) - [ INFO ]----*********************************************完成测试*********************************************
+2020-09-10 17:15:52 method: com.t.webauto.utils.Base.init(Base.java:28) - [ INFO ]----*****************************************测试开始***************************************************************************************
+2020-09-10 17:15:52 method: com.t.webauto.utils.Base.init(Base.java:29) - [ INFO ]----配置浏览器：firefox,Selenium版本：src/test/resources/geckodriver.exe,驱动文件路径：3.X
+2020-09-10 17:16:00 method: com.t.webauto.utils.Base.init(Base.java:51) - [ INFO ]----成功创建firefox驱动对象
+2020-09-10 17:16:01 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:01 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:01 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:02 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:03 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:04 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:07 method: com.t.webauto.utils.Base.tearDown(Base.java:176) - [ INFO ]----*********************************************完成测试*********************************************
+2020-09-10 17:16:23 method: com.t.webauto.utils.Base.init(Base.java:28) - [ INFO ]----*****************************************测试开始***************************************************************************************
+2020-09-10 17:16:23 method: com.t.webauto.utils.Base.init(Base.java:29) - [ INFO ]----配置浏览器：firefox,Selenium版本：src/test/resources/geckodriver.exe,驱动文件路径：3.X
+2020-09-10 17:16:31 method: com.t.webauto.utils.Base.init(Base.java:51) - [ INFO ]----成功创建firefox驱动对象
+2020-09-10 17:16:31 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:32 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:33 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:34 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:16:35 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:16:38 method: com.t.webauto.utils.Base.tearDown(Base.java:176) - [ INFO ]----*********************************************完成测试*********************************************
+2020-09-10 17:26:57 method: com.t.webauto.utils.Base.init(Base.java:28) - [ INFO ]----*****************************************测试开始***************************************************************************************
+2020-09-10 17:26:57 method: com.t.webauto.utils.Base.init(Base.java:29) - [ INFO ]----配置浏览器：firefox,Selenium版本：src/test/resources/geckodriver.exe,驱动文件路径：3.X
+2020-09-10 17:27:06 method: com.t.webauto.utils.Base.init(Base.java:51) - [ INFO ]----成功创建firefox驱动对象
+2020-09-10 17:27:07 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:27:08 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:27:09 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:27:10 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:27:11 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:27:15 method: com.t.webauto.utils.Base.tearDown(Base.java:176) - [ INFO ]----*********************************************完成测试*********************************************
+2020-09-10 17:29:21 method: com.t.webauto.utils.Base.init(Base.java:28) - [ INFO ]----*****************************************测试开始***************************************************************************************
+2020-09-10 17:29:21 method: com.t.webauto.utils.Base.init(Base.java:29) - [ INFO ]----配置浏览器：firefox,Selenium版本：src/test/resources/geckodriver.exe,驱动文件路径：3.X
+2020-09-10 17:29:30 method: com.t.webauto.utils.Base.init(Base.java:51) - [ INFO ]----成功创建firefox驱动对象
+2020-09-10 17:29:30 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:29:31 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:29:32 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:29:33 method: com.t.webauto.utils.Base.get(Base.java:237) - [ INFO ]----访问页面http://localhost:8088/Discuz/upload/member.php?mod=register
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【用户名输入框】： {'by','id'},{'value','tRYSs0'}【成功】
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【密码输入框】： {'by','id'},{'value','dgfvkp'}【成功】
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【请确认密码】： {'by','id'},{'value','Qz45kX'}【成功】
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【邮件输入框】： {'by','id'},{'value','GciA35'}【成功】
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:118) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}
+2020-09-10 17:29:34 method: com.t.webauto.utils.Base.getElement(Base.java:162) - [ INFO ]----获取【注册页】 上的 【注册按钮】： {'by','id'},{'value','registerformsubmit'}【成功】
+2020-09-10 17:29:37 method: com.t.webauto.utils.Base.tearDown(Base.java:176) - [ INFO ]----*********************************************完成测试*********************************************
